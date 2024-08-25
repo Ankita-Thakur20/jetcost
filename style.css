@@ -631,7 +631,7 @@
         display:none;
     }
     .costcard{
-        height:919px;
+        height:930px;
         display:grid;
         grid-template-columns:repeat(1,auto);
         grid-template-rows:(15,auto);
@@ -640,7 +640,7 @@
         display:none;
     }
     .last{
-        height:382px;
+        height:395px;
     }
     .last span button:nth-child(3){
         display:none;
